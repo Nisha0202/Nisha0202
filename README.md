@@ -3,7 +3,6 @@
 
 # 👋 Hi there! I'm Nisha
 💻 Passionate Computer Science and Engineering student with a focus on Frontend Development. <br><br>🚀 I enjoy building responsive and user-friendly web applications using React.js and styling them with Tailwind CSS. <br><br>💼 Currently honing my skills through practical projects to create meaningful digital experiences.<br><br>🌱 Always learning, exploring new technologies, and ready to collaborate on exciting projects.<br><br>📧 Reach me at [nishajabatunnessa@gmail.com](mailto:nishajabatunnessa@gmail.com)
-
 <br></br>
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -15,19 +14,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=flat&logo=Mantine&logoColor=339af0
-
 <br></br>
 # 📈 Current Stats:
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=dark&hide_border=false)<br/>
 
-
-
-
-# 💻 Tech Stack:
-![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=flat&logo=Mantine&logoColor=339af0) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white)
 # 📊 GitHub Stats:
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=onedark&hide_border=false)<br/>
 
 
