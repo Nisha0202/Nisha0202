@@ -4,7 +4,7 @@
 # 👋 Hi there! I'm Nisha
 💻 Passionate Computer Science and Engineering student with a focus on Frontend Development. <br><br>🚀 I enjoy building responsive and user-friendly web applications using React.js and styling them with Tailwind CSS. <br><br>💼 Currently honing my skills through practical projects to create meaningful digital experiences.<br><br>🌱 Always learning, exploring new technologies, and ready to collaborate on exciting projects.<br><br>📧 Reach me at [nishajabatunnessa@gmail.com](mailto:nishajabatunnessa@gmail.com)
 
-
+<br></br>
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
@@ -16,7 +16,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-
+<br></br>
 # 📈 Current Stats:
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=dark&hide_border=false)<br/>
 
