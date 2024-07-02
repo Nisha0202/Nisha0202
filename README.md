@@ -16,16 +16,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 <br></br>
 # 📈 Current Stats:
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=dark&hide_border=false)<br/>
-
-# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=onedark&hide_border=false)<br/>
 
-
-
-
-
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/jabatunnisha0202) 
+## Others:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jabatunnisha0202) 
 
 
