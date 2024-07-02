@@ -9,6 +9,7 @@
 
 🌱 Always learning, exploring new technologies, and ready to collaborate on exciting projects.
 
-📫 Reach me at ✉️(nishajabatunnessa@gmail.com)
+📧 Reach me at [nishajabatunnessa@gmail.com](mailto:nishajabatunnessa@gmail.com)
+
 
 
