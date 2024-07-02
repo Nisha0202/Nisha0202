@@ -16,9 +16,24 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
+# 💻 Tech Stack:
+<div style="display: flex; justify-content: space-around; padding: 20px 5px;">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="padding: 5px;">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="padding: 5px;">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="padding: 5px;">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" style="padding: 5px;">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="padding: 5px;">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="padding: 5px;">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="padding: 5px;">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase" style="padding: 5px;">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" style="padding: 5px;">
+</div>
 
 # 📈 Current Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=dark&hide_border=false)<br/>
+<div style="display: flex; justify-content: space-around; padding: 20px 0;">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=dark&hide_border=false)<br/>
+</div>
+
 
 
 
