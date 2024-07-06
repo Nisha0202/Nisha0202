@@ -1,4 +1,4 @@
-![Twitter header - 1](https://github.com/Nisha0202/Nisha0202/assets/99580632/09d2a6ea-321c-48c0-bcf8-3b531b4db4af)
+![banner](https://github.com/Nisha0202/Nisha0202/assets/99580632/567aa160-ebc6-4d1d-ac86-6b66e3da5c64)
 <br></br>
 ## 👋 Hi there! I'm Nisha 
 💻 Passionate Computer Science and Engineering student with a focus on Frontend Development. <br><br>🚀 I enjoy building responsive and user-friendly web applications using React.js and styling them with Tailwind CSS. <br><br>💼 Currently honing my skills through practical projects to create meaningful digital experiences.<br><br>🌱 Always learning, exploring new technologies, and ready to collaborate on exciting projects.<br><br>📧 Reach me at [nishajabatunnessa@gmail.com](mailto:nishajabatunnessa@gmail.com)
