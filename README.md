@@ -18,6 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=onedark&hide_border=false)<br/>
 
 ## Others:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jabatunnisha0202) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jabatunnisha0202)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nishajabatunnes1)
 
 
