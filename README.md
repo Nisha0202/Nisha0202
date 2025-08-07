@@ -17,7 +17,8 @@
 <br></br>
 ## 📈 Current Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=onedark&hide_border=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nisha0202&theme=onedark&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=nisha0202&theme=onedark&hide_border=false)
+
 
 
 ## Others:
