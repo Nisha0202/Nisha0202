@@ -17,6 +17,8 @@
 <br></br>
 ## 📈 Current Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nisha0202&theme=onedark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nisha0202&theme=onedark&hide_border=false)<br/>
+
 
 ## Others:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jabatunnisha0202)
