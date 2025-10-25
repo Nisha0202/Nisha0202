@@ -1,6 +1,6 @@
 ![banner](https://github.com/Nisha0202/Nisha0202/assets/99580632/c4bf8385-312a-4ccc-acf0-b022ceccb8ad)
 <br></br>
-## 👋 Hi there! I'm Nisha 
+## 👋 Hi there! I usually go by Jabatun Nisha, but my full name is Jabatun Nessa Nisha.
 💻 Passionate Computer Science and Engineering student with a focus on Frontend Development. <br><br>🚀 I enjoy building responsive and user-friendly web applications using React.js and styling them with Tailwind CSS. <br><br>💼 Currently honing my skills through practical projects to create meaningful digital experiences.<br><br>🌱 Always learning, exploring new technologies, and ready to collaborate on exciting projects.<br><br>📧 Reach me at [nishajabatunnessa@gmail.com](mailto:nishajabatunnessa@gmail.com)
 <br></br>
 ## 💻 Tech Stack:
