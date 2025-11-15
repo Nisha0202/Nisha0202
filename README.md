@@ -30,5 +30,5 @@
 ## Others:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jabatunnisha0202)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nishajabatunnes1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-2EC866?logo=hackerrank&logoColor=white)](https://leetcode.com/u/Nisha0202/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FE7A16?logo=leetcode&logoColor=white)](https://leetcode.com/u/Nisha0202/)
 
