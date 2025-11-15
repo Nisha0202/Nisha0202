@@ -1,4 +1,3 @@
-![banner]
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/95b14562-38c1-4e4d-a0da-edcc0cfd4ca7"
@@ -31,5 +30,5 @@
 ## Others:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/jabatunnisha0202)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nishajabatunnes1)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-2EC866?logo=hackerrank&logoColor=white)](https://leetcode.com/u/Nisha0202/)
 
