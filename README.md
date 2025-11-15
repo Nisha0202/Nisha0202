@@ -1,4 +1,4 @@
-![banner](<img width="1344" height="768" alt="Gemini_Generated_Image_336oye336oye336o" src="https://github.com/user-attachments/assets/b89be2ca-1772-4aba-bad4-1175694894ef" />)
+![banner](https://github.com/user-attachments/assets/b89be2ca-1772-4aba-bad4-1175694894ef)
 
 <br></br>
 ## 👋 Hi there! I usually go by Jabatun Nisha, but my full name is Jabatun Nessa Nisha.
