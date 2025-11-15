@@ -1,7 +1,8 @@
-![banner](https://github.com/Nisha0202/Nisha0202/assets/99580632/c4bf8385-312a-4ccc-acf0-b022ceccb8ad)
+![banner](<img width="1344" height="768" alt="Gemini_Generated_Image_336oye336oye336o" src="https://github.com/user-attachments/assets/b89be2ca-1772-4aba-bad4-1175694894ef" />)
+
 <br></br>
 ## 👋 Hi there! I usually go by Jabatun Nisha, but my full name is Jabatun Nessa Nisha.
-💻 Passionate Computer Science and Engineering student with a focus on Frontend Development. <br><br>🚀 I enjoy building responsive and user-friendly web applications using React.js and styling them with Tailwind CSS. <br><br>💼 Currently honing my skills through practical projects to create meaningful digital experiences.<br><br>🌱 Always learning, exploring new technologies, and ready to collaborate on exciting projects.<br><br>📧 Reach me at [nishajabatunnessa@gmail.com](mailto:nishajabatunnessa@gmail.com)
+💻 Passionate Computer Science and Engineering graduate with a focus on Software Development. <br><br>🚀 I enjoy building responsive and user-friendly web applications using React.js and styling them with Tailwind CSS. <br><br>💼 Currently honing my skills through practical projects to create meaningful digital experiences.<br><br>🌱 Always learning, exploring new technologies, and ready to collaborate on exciting projects.<br><br>📧 Reach me at [nishajabatunnessa@gmail.com](mailto:nishajabatunnessa@gmail.com)
 <br></br>
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
