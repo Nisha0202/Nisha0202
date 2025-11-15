@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/b89be2ca-1772-4aba-bad4-1175694894ef)
+![banner](https://github.com/user-attachments/assets/b89be2ca-1772-4aba-bad4-1175694894ef){height=500}
 
 <br></br>
 ## 👋 Hi there! I usually go by Jabatun Nisha, but my full name is Jabatun Nessa Nisha.
