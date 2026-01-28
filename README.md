@@ -24,8 +24,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 <br></br>
 ## 📈 Current Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nisha0202&theme=transparent&hide_border=true)](https://git.io/streak-stats)<br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nisha0202&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nisha0202&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ## Others:
