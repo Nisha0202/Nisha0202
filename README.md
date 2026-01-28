@@ -25,6 +25,7 @@
 <br></br>
 ## 📈 Current Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nisha0202&theme=transparent&hide_border=true)](https://git.io/streak-stats)<br/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nisha0202&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
 
 ## Others:
