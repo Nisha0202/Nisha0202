@@ -23,8 +23,10 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 <br></br>
-## 📈 Current Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nisha0202&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+## 📈 Learning in Progress
+Building consistently, one commit at a time.
+
 
 
 
