@@ -26,8 +26,14 @@
 
 ## 📈 Learning in Progress
 Building consistently, one commit at a time.
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nisha0202&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats">
+  <img 
+    src="https://streak-stats.demolab.com?user=Nisha0202&theme=transparent&hide_border=true"
+    style="max-width:200px; width:50%; margin-top:20px;"
+    alt="GitHub Streak"
+  />
+</a>
 
 
 ## Others:
